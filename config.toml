@@ -1,6 +1,6 @@
 baseurl                 = "https://looking-for-foster-parents.netlify.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "里親募集中"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -71,11 +71,11 @@ disableLanguages        = [""]
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "test"
+    about               = "この子について"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
-    categories          = true
+    categories          = false
     # Sets Categories to sort by number of posts instead of alphabetical
     categoriesByCount   = true
 
@@ -125,12 +125,6 @@ disableLanguages        = [""]
     url               = "/blog/"
     identifier        = "far fa-newspaper"
     weight            = 3
-
-  [[menu.main]]
-    name              = "Categories"
-    url               = "/categories/"
-    identifier        = "fas fa-sitemap"
-    weight            = 5
 
   [[menu.main]]
     name              = "Contact"
