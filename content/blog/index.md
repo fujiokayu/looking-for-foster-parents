@@ -23,7 +23,7 @@ type = "post"
 
 #### これまで
 
-<img src="/img/main/on.jpg" width="400">
+<img src="/img/main/on.jpg" height="370" width="350"><img src="/img/main/with.jpg" height="370" width="350">
 
 - 2019/7/7  
   - 徳島県海部郡美波町の峠道にて発見。  
