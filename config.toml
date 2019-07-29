@@ -26,7 +26,7 @@ disableLanguages        = [""]
   readingTime           = false
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "email"]
+  socialShare           = ["twitter", "facebook"]
 
   [params.meta]
     # Sets the meta tag description
