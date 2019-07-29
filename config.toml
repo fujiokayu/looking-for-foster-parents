@@ -18,7 +18,7 @@ disableLanguages        = [""]
   jsFiles               = ["default"]
   # Sets options for highlight.js
   highlightjs           = true
-  highlightjsTheme      = "github"
+  #highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
   #viewMorePostsLink     = "/about/"
@@ -45,7 +45,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "里親募集中"
+    # navbarTitle         = "里親募集中"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
     searchMenu          = false
@@ -66,8 +66,7 @@ disableLanguages        = [""]
       src                 = "/img/main/logo.jpg"
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
-      width               = "180"
-      alt                 = ""
+      width               = "220"
 
   [params.sidebar]
     #
@@ -76,7 +75,7 @@ disableLanguages        = [""]
     # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = false
     # Sets Social Media icons to appear on the sidebar
-    socialFooter        = true
+    socialFooter        = false
 
   # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
   # due to its ease of use. Feel free to check out both and decide which you would
