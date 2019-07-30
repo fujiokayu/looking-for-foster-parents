@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>お問い合わせ on 里親募集中</title>
+    <link>https://looking-for-foster-parents.netlify.com/contact/</link>
+    <description>Recent content in お問い合わせ on 里親募集中</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://looking-for-foster-parents.netlify.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

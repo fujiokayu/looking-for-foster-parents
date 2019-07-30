@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 里親募集中</title>
+    <link>https://looking-for-foster-parents.netlify.com/categories/</link>
+    <description>Recent content in Categories on 里親募集中</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://looking-for-foster-parents.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://looking-for-foster-parents.netlify.com/categories/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://looking-for-foster-parents.netlify.com/categories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
