@@ -37,7 +37,7 @@ type = "post"
 - 2019/7/21
   - 動物病院にて診断。耳ダニがいたので治療中(8月中に回復予定)。
 
-#### ご連絡をお待ちしています。
+#### [ご連絡をお待ちしています。](/contact/)
 
 <img src="/img/main/pause.jpg" width="350"><img src="/img/main/play.jpg" width="350">
 
