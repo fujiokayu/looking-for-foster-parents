@@ -49,7 +49,7 @@ disableLanguages        = [""]
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = false
     searchMenu          = false
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = false
 
   # These are optional params related to the sidebar. They are recommended, but not
@@ -110,7 +110,7 @@ disableLanguages        = [""]
     name              = "Contact"
     url               = "/contact/"
     identifier        = "far fa-envelope"
-    weight            = 6
+    weight            = 2
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
